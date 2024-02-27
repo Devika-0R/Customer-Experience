@@ -15,6 +15,8 @@ This data analysis project aims to provide insights into customers experience fo
 < AxesSubplot:xlabel='Rep'>
 
 ![Screenshot 2024-02-13 223822](https://github.com/Devika-0R/Stationary_sales/assets/153339996/e09eb6e0-914e-45ea-96ae-aa0a1dd40508)
+![image](https://github.com/Devika-0R/Customer-Experience/assets/153339996/48accbf0-63df-4ebc-bee2-7b09ef74e5ad)
+
 
 ## Data Sources
 
