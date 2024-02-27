@@ -12,9 +12,7 @@
 
 This data analysis project aims to provide insights into customers experience for sunglass company . By analyzing various aspects of the company's sales data, I seek to identify trends, make data driven recommendation, and gain the deeper understanding of the company's recommendation.
 
-< AxesSubplot:xlabel='Rep'>
-
-![Screenshot 2024-02-13 223822](https://github.com/Devika-0R/Stationary_sales/assets/153339996/e09eb6e0-914e-45ea-96ae-aa0a1dd40508)
+<'Customer review'>
 ![image](https://github.com/Devika-0R/Customer-Experience/assets/153339996/48accbf0-63df-4ebc-bee2-7b09ef74e5ad)
 
 
