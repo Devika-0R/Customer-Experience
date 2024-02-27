@@ -40,9 +40,9 @@ EDA involved exploring the sales data to answer key questions. such as,
 - Does the customers interest depents on the store advisor's attitude?
 
 ## Data Analysis
-Included some interesting measures and calculations such as;
+Included some interesting calculations such as;
 
-![Screenshot 2024-02-13 230647](https://github.com/Devika-0R/Stationary_sales/assets/153339996/06f806fc-d710-4be4-98c2-e5906726216f)
+=IF($C3<50,"Bottom Performer",IF($C3<70,"Low Performer",IF($C3<80,"Average Performer","High Performer")))
 
 
 ## Result
