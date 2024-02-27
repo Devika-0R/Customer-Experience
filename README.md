@@ -42,7 +42,7 @@ EDA involved exploring the sales data to answer key questions. such as,
 ## Data Analysis
 Included some interesting calculations such as;
 
-=IF($C3<50,"Bottom Performer",IF($C3<70,"Low Performer",IF($C3<80,"Average Performer","High Performer")))
+< '=IF($C3<50,"Bottom Performer",IF($C3<70,"Low Performer",IF($C3<80,"Average Performer","High Performer")))'>
 
 
 ## Result
